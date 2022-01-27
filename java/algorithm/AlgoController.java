@@ -11,14 +11,14 @@ public class AlgoController {
                         "2. queue \t" +
                         "3. dp \n" +
                         "[최민서] 4. hash \t" +
-                        "5. graph \n" +
-                        "6. greedy \t" +
+                        "5. graph \t" +
+                        "6. greedy \n" +
                         "[한정수]7. dfs \t" +
-                        "8. bfs \n" +
-                        "9. heap \t" +
+                        "8. bfs \t" +
+                        "9. heap \n" +
                         "[김승현] 10. bin search \t" +
-                        "11. brute force\n" +
-                        "12. sort\n");
+                        "11. brute force\t" +
+                        "12. sort\t");
                 switch (scanner.next()){
                     case "0": return;
                     case "1":
