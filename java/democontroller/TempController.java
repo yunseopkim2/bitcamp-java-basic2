@@ -18,7 +18,7 @@ public class TempController {
         System.out.println(s);
         s = "";
         System.out.println("팀장이 많은 과제만 출력하세요.");
-        
+
         String b = "김윤섭";
         for (int i = 0; i<arr.length; i++ ){
             if(arr[i].equals(b)){
