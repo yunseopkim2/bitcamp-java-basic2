@@ -1,4 +1,4 @@
-package domain;
+package member.domain;
 
 public class BmiDTO {
     public static String BMI_APP = "BMI";

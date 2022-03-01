@@ -1,4 +1,4 @@
-package domain;
+package member.domain;
 
 public class GradeDTO {
     public static String GRADE_APP = "성적표";

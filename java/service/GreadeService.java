@@ -1,6 +1,6 @@
 package service;
 
-import domain.GradeDTO;
+import member.domain.GradeDTO;
 
 public class GreadeService {
     public String getGrade(GradeDTO grade){

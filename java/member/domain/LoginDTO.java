@@ -1,4 +1,4 @@
-package domain;
+package member.domain;
 
 public class LoginDTO {
     public static String LOGIN_APP = "로그인";

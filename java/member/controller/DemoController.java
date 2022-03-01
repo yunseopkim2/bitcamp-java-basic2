@@ -1,6 +1,6 @@
-package democontroller;
+package member.controller;
 
-import domain.*;
+import member.domain.*;
 import service.*;
 
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package domain;
+package member.domain;
 
 public class CalcDTO {
     public static String CALC_APP = "계산기";

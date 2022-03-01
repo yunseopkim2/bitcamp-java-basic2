@@ -1,8 +1,8 @@
 package service;
 
-import domain.LoginDTO;
+import member.domain.LoginDTO;
 
-import static domain.LoginDTO.PASSWORD;
+import static member.domain.LoginDTO.PASSWORD;
 
 public class LoginService {
     public String getLogin(LoginDTO login){

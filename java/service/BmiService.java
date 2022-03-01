@@ -1,6 +1,6 @@
 package service;
 
-import domain.BmiDTO;
+import member.domain.BmiDTO;
 
 public class BmiService {
     public String getBmi( BmiDTO bmi) {

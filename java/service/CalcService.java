@@ -1,6 +1,6 @@
 package service;
 
-import domain.CalcDTO;
+import member.domain.CalcDTO;
 
 public class CalcService {
     public String getCalc(CalcDTO calc){

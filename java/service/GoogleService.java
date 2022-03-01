@@ -1,6 +1,6 @@
 package service;
 
-import domain.GoogleDTO;
+import member.domain.GoogleDTO;
 
 public class GoogleService {
     public String getGoogle(GoogleDTO google){

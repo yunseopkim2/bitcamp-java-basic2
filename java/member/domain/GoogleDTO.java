@@ -1,4 +1,4 @@
-package domain;
+package member.domain;
 
 public class GoogleDTO {
     public static String GOOGLE_APP = "GOOGLE";
